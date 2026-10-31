@@ -1,0 +1,1258 @@
+{
+  "renderer": "rsvg-convert version 2.62.4\n\nlibraries used:\n  cairo 1.18.6\n  pango 1.57.1\n  harfbuzz 14.1.0\n  fontconfig 2.17.0",
+  "files": [
+    {
+      "file": "paths-data-01-t.svg",
+      "paths": 8,
+      "commands": 33,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "f4e27a044077ea09e4c9f5132ebc9d87ac8d7b5030591afd2ae290acec7e15e1",
+        "edited_sha256": "f4e27a044077ea09e4c9f5132ebc9d87ac8d7b5030591afd2ae290acec7e15e1"
+      }
+    },
+    {
+      "file": "paths-data-02-t.svg",
+      "paths": 7,
+      "commands": 36,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "b9a462e8f2bceb0d4571e1017523c8f403d6fde6b98fb4e54deed5d2492780c3",
+        "edited_sha256": "b9a462e8f2bceb0d4571e1017523c8f403d6fde6b98fb4e54deed5d2492780c3"
+      }
+    },
+    {
+      "file": "paths-data-03-f.svg",
+      "paths": 6,
+      "commands": 28,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "9969cf230cc8384004f096e8df2e7559b80a42da12cd85a6cf89d2db01dd8bd2",
+        "edited_sha256": "9969cf230cc8384004f096e8df2e7559b80a42da12cd85a6cf89d2db01dd8bd2"
+      }
+    },
+    {
+      "file": "paths-data-08-t.svg",
+      "paths": 2,
+      "commands": 20,
+      "transforms": 1,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "9f1539b466c838dfb70f6d7caf681914cb899acd881b9ba3876d27c078d8e3ac",
+        "edited_sha256": "9f1539b466c838dfb70f6d7caf681914cb899acd881b9ba3876d27c078d8e3ac"
+      }
+    },
+    {
+      "file": "shapes-rect-01-t.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "09ec54fc4c3dc60af49645e1ba9066ea37ae989d95315a9e33fea1ebb886596c",
+        "edited_sha256": "09ec54fc4c3dc60af49645e1ba9066ea37ae989d95315a9e33fea1ebb886596c"
+      }
+    },
+    {
+      "file": "shapes-circle-01-t.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "b17b6cffc21a4ef7057a3c594d0f5c98cffd39132d86f8c4ee6d063fae92c983",
+        "edited_sha256": "b17b6cffc21a4ef7057a3c594d0f5c98cffd39132d86f8c4ee6d063fae92c983"
+      }
+    },
+    {
+      "file": "shapes-ellipse-01-t.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "9c7b0cd13841cef5d49681de418ef79b04d55e078b7c9d0c73c6dde6d174c1e6",
+        "edited_sha256": "9c7b0cd13841cef5d49681de418ef79b04d55e078b7c9d0c73c6dde6d174c1e6"
+      }
+    },
+    {
+      "file": "coords-trans-01-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 11,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "6ba905022950989054fe82eb297750f82ff3ad47e15ebaa076273e5fd2a83297",
+        "edited_sha256": "6ba905022950989054fe82eb297750f82ff3ad47e15ebaa076273e5fd2a83297"
+      }
+    },
+    {
+      "file": "painting-fill-01-t.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "470f5242f1b20538b0f190b0776cba713d26e157dd959ac7891f5775e1a7ae87",
+        "edited_sha256": "470f5242f1b20538b0f190b0776cba713d26e157dd959ac7891f5775e1a7ae87"
+      }
+    },
+    {
+      "file": "painting-stroke-01-t.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "d0a2f2144381ddb80b2151115edae317c5cb18cb312fc2851c7a7df30a364924",
+        "edited_sha256": "d0a2f2144381ddb80b2151115edae317c5cb18cb312fc2851c7a7df30a364924"
+      }
+    },
+    {
+      "file": "pservers-grad-01-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "1ac69f97390f89ca1f47e73b32f88c0a7a623556e632fb5f369d790d68d6809a",
+        "edited_sha256": "1ac69f97390f89ca1f47e73b32f88c0a7a623556e632fb5f369d790d68d6809a"
+      }
+    },
+    {
+      "file": "pservers-grad-02-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "d3e6149a328af0200d1667b250b18d39cde73a8cd5b1e0573d7f79b7ff6de2b2",
+        "edited_sha256": "d3e6149a328af0200d1667b250b18d39cde73a8cd5b1e0573d7f79b7ff6de2b2"
+      }
+    },
+    {
+      "file": "pservers-pattern-01-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "46f3a6a2cae279f1f44caa3086529deea1dd7069979221e33b1371749b7c1ace",
+        "edited_sha256": "46f3a6a2cae279f1f44caa3086529deea1dd7069979221e33b1371749b7c1ace"
+      }
+    },
+    {
+      "file": "masking-path-01-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "092b2f73f8171d6097298c2bae8fca21c524d8883bab9ab45d3bf8927ab91b71",
+        "edited_sha256": "092b2f73f8171d6097298c2bae8fca21c524d8883bab9ab45d3bf8927ab91b71"
+      }
+    },
+    {
+      "file": "masking-mask-01-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "401bfcdfa1c26ba9181e177b955133268cdc35500f80b2db19331181baf90540",
+        "edited_sha256": "401bfcdfa1c26ba9181e177b955133268cdc35500f80b2db19331181baf90540"
+      }
+    },
+    {
+      "file": "filters-gauss-01-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 2,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "0d0bdafe2a0bc1e7da75dcbfe0712da0e85baf95a4251f4a305c913d05749b42",
+        "edited_sha256": "0d0bdafe2a0bc1e7da75dcbfe0712da0e85baf95a4251f4a305c913d05749b42"
+      }
+    },
+    {
+      "file": "text-text-01-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 3,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "44befebe45a8ade2b1375e937dda923d0aca06e53dc6f2460e49c844eb4e1c4c",
+        "edited_sha256": "44befebe45a8ade2b1375e937dda923d0aca06e53dc6f2460e49c844eb4e1c4c"
+      }
+    },
+    {
+      "file": "text-tspan-01-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "3a8c70517a63d677b9f59f85d84cd144bb60ffa70e61f0d916012194349e6611",
+        "edited_sha256": "3a8c70517a63d677b9f59f85d84cd144bb60ffa70e61f0d916012194349e6611"
+      }
+    },
+    {
+      "file": "struct-use-01-t.svg",
+      "paths": 1,
+      "commands": 5,
+      "transforms": 3,
+      "pointLists": 2,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "48f8e1a64184bf1112948a53b1a600805f50bcd511ccf90f19b7c952b4105746",
+        "edited_sha256": "48f8e1a64184bf1112948a53b1a600805f50bcd511ccf90f19b7c952b4105746"
+      }
+    },
+    {
+      "file": "struct-symbol-01-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "1245ffc4485ac09881b38ce041e27f4b4424338184e73d90398673332e08f2ef",
+        "edited_sha256": "1245ffc4485ac09881b38ce041e27f4b4424338184e73d90398673332e08f2ef"
+      }
+    },
+    {
+      "file": "styling-css-01-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 1,
+      "pointLists": 2,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "6c66b6e015d415458aacf6fc5ad523340b984afe0821dca2cba3ef389a8476e0",
+        "edited_sha256": "6c66b6e015d415458aacf6fc5ad523340b984afe0821dca2cba3ef389a8476e0"
+      }
+    },
+    {
+      "file": "coords-trans-02-t.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 6,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "18296d2ae71da5763b6a5767f819bdf6891f2689e4e08f20943bd340a4cdddf0",
+        "edited_sha256": "18296d2ae71da5763b6a5767f819bdf6891f2689e4e08f20943bd340a4cdddf0"
+      }
+    },
+    {
+      "file": "coords-trans-03-t.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 6,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "45d9b3edd8288db4f8629895092c4a0806e16a2ee4c5ae5c462ad14d12f08e86",
+        "edited_sha256": "45d9b3edd8288db4f8629895092c4a0806e16a2ee4c5ae5c462ad14d12f08e86"
+      }
+    },
+    {
+      "file": "coords-trans-04-t.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 4,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "171a699e9f7a5a6a9c74c2371f417adc6e8e7314a0e2757e5a83fb36f90b9055",
+        "edited_sha256": "171a699e9f7a5a6a9c74c2371f417adc6e8e7314a0e2757e5a83fb36f90b9055"
+      }
+    },
+    {
+      "file": "coords-trans-05-t.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 4,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "188040e65b8a1c25207bac54b54bac6704dbefb499d20546bb18cc97890f24fb",
+        "edited_sha256": "188040e65b8a1c25207bac54b54bac6704dbefb499d20546bb18cc97890f24fb"
+      }
+    },
+    {
+      "file": "coords-trans-06-t.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 5,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "2c6987190c3493f3515fc351ed23cf5ab3b9721fb9c005f61b4ef9b18992b2ab",
+        "edited_sha256": "2c6987190c3493f3515fc351ed23cf5ab3b9721fb9c005f61b4ef9b18992b2ab"
+      }
+    },
+    {
+      "file": "coords-trans-07-t.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 2,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "f69c3714e54f724a215aea61cdc7e3ca09d265caa3e7e447e3369fa98f6022f3",
+        "edited_sha256": "f69c3714e54f724a215aea61cdc7e3ca09d265caa3e7e447e3369fa98f6022f3"
+      }
+    },
+    {
+      "file": "coords-trans-08-t.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 2,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "2a8fa0b9c01b6c45268f46b961e9421b4719129751b1b61901c74dc4300a98c9",
+        "edited_sha256": "2a8fa0b9c01b6c45268f46b961e9421b4719129751b1b61901c74dc4300a98c9"
+      }
+    },
+    {
+      "file": "coords-trans-09-t.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 7,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "0683c2d84c76b28e32399f213d585a747a960b819c35f0f0496db282d7004ea3",
+        "edited_sha256": "0683c2d84c76b28e32399f213d585a747a960b819c35f0f0496db282d7004ea3"
+      }
+    },
+    {
+      "file": "coords-trans-10-f.svg",
+      "paths": 4,
+      "commands": 16,
+      "transforms": 5,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "4cec598ec44b3b6969cf5a900f0e08a096d9604795782959ce71c14086be3081",
+        "edited_sha256": "4cec598ec44b3b6969cf5a900f0e08a096d9604795782959ce71c14086be3081"
+      }
+    },
+    {
+      "file": "coords-trans-11-f.svg",
+      "paths": 4,
+      "commands": 16,
+      "transforms": 5,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "43cc77e118c49a2fab3688003f74fc66563c707eaba719641bdaad7fd1ea7c4f",
+        "edited_sha256": "43cc77e118c49a2fab3688003f74fc66563c707eaba719641bdaad7fd1ea7c4f"
+      }
+    },
+    {
+      "file": "coords-trans-12-f.svg",
+      "paths": 4,
+      "commands": 16,
+      "transforms": 6,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "628d05d4289253e02c47d9059af8cc7b327de94564f4a1ca6b82e0b51ec752f5",
+        "edited_sha256": "628d05d4289253e02c47d9059af8cc7b327de94564f4a1ca6b82e0b51ec752f5"
+      }
+    },
+    {
+      "file": "coords-trans-13-f.svg",
+      "paths": 4,
+      "commands": 16,
+      "transforms": 5,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "afca9b5ca5fe16bb3fee4416fde636d2c6de013eb88884b093f89848063e1d98",
+        "edited_sha256": "afca9b5ca5fe16bb3fee4416fde636d2c6de013eb88884b093f89848063e1d98"
+      }
+    },
+    {
+      "file": "coords-trans-14-f.svg",
+      "paths": 4,
+      "commands": 16,
+      "transforms": 6,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "679896ed1a86355c65a6d4dfea9839fbbab816fee6fdf72ae1367b8b3f1dde0d",
+        "edited_sha256": "679896ed1a86355c65a6d4dfea9839fbbab816fee6fdf72ae1367b8b3f1dde0d"
+      }
+    },
+    {
+      "file": "coords-transformattr-01-f.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 12,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "2dc30f2e124b708e37a0562b063aa596ba5c0ab522b823f592d0f2503960c11e",
+        "edited_sha256": "2dc30f2e124b708e37a0562b063aa596ba5c0ab522b823f592d0f2503960c11e"
+      }
+    },
+    {
+      "file": "coords-transformattr-02-f.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 12,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "da368cbdf0c5ade7e03de2c83efe415750e5e9d20c6c38a861be1ca38f681a59",
+        "edited_sha256": "da368cbdf0c5ade7e03de2c83efe415750e5e9d20c6c38a861be1ca38f681a59"
+      }
+    },
+    {
+      "file": "coords-transformattr-03-f.svg",
+      "paths": 2,
+      "commands": 8,
+      "transforms": 4,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "b0b5e3aa8a0461f84cf525f9ed18b2581388d8e71a686d440ae9d52618ca0f05",
+        "edited_sha256": "b0b5e3aa8a0461f84cf525f9ed18b2581388d8e71a686d440ae9d52618ca0f05"
+      }
+    },
+    {
+      "file": "coords-transformattr-04-f.svg",
+      "paths": 2,
+      "commands": 8,
+      "transforms": 4,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "0a91f94bde92efc7f706ea13ee7957593e79e00aa3d54a79eb8398a511c30493",
+        "edited_sha256": "0a91f94bde92efc7f706ea13ee7957593e79e00aa3d54a79eb8398a511c30493"
+      }
+    },
+    {
+      "file": "coords-transformattr-05-f.svg",
+      "paths": 2,
+      "commands": 8,
+      "transforms": 7,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "05ffefccdebfc2c658f1d2d4759893c961ba6bcb8698ca91e7ab28c21471ef09",
+        "edited_sha256": "05ffefccdebfc2c658f1d2d4759893c961ba6bcb8698ca91e7ab28c21471ef09"
+      }
+    },
+    {
+      "file": "filters-blend-01-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 1,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "ce79e153523a30ded01b6d2b92a44048994daa0d998faab6998894513e0ae2cf",
+        "edited_sha256": "ce79e153523a30ded01b6d2b92a44048994daa0d998faab6998894513e0ae2cf"
+      }
+    },
+    {
+      "file": "filters-composite-02-b.svg",
+      "paths": 4,
+      "commands": 16,
+      "transforms": 14,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "8f28c79e340fa36dccbab749b86a8c376e35a42ebaca4f66c4bbb5e064206963",
+        "edited_sha256": "8f28c79e340fa36dccbab749b86a8c376e35a42ebaca4f66c4bbb5e064206963"
+      }
+    },
+    {
+      "file": "filters-composite-03-f.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 4,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "a90bc5257f79386f9da14f9be392ccc41dc11c47447c84f1338a1d4dddad75ef",
+        "edited_sha256": "a90bc5257f79386f9da14f9be392ccc41dc11c47447c84f1338a1d4dddad75ef"
+      }
+    },
+    {
+      "file": "painting-marker-01-f.svg",
+      "paths": 12,
+      "commands": 42,
+      "transforms": 12,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "03d91ee37a44af9a4888151f1e2851e28bd04e878eca24d1d8232d6f7684c13e",
+        "edited_sha256": "03d91ee37a44af9a4888151f1e2851e28bd04e878eca24d1d8232d6f7684c13e"
+      }
+    },
+    {
+      "file": "painting-marker-02-f.svg",
+      "paths": 8,
+      "commands": 32,
+      "transforms": 28,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "4b0ed10f6d61b1e69010afee80424a90ba37e2400ef033f9dffe2e4d271007e9",
+        "edited_sha256": "4b0ed10f6d61b1e69010afee80424a90ba37e2400ef033f9dffe2e4d271007e9"
+      }
+    },
+    {
+      "file": "painting-marker-03-f.svg",
+      "paths": 2,
+      "commands": 26,
+      "transforms": 2,
+      "pointLists": 4,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "29436fe7212de31ad1000bbf92edb511bb1f18234ab9078f5a26fe9616a1d749",
+        "edited_sha256": "29436fe7212de31ad1000bbf92edb511bb1f18234ab9078f5a26fe9616a1d749"
+      }
+    },
+    {
+      "file": "painting-marker-04-f.svg",
+      "paths": 2,
+      "commands": 26,
+      "transforms": 2,
+      "pointLists": 4,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "4596090e0c4b81bc6e2427cb54a07c471976975cc7e9991429a9490c6cca4dea",
+        "edited_sha256": "4596090e0c4b81bc6e2427cb54a07c471976975cc7e9991429a9490c6cca4dea"
+      }
+    },
+    {
+      "file": "painting-marker-05-f.svg",
+      "paths": 25,
+      "commands": 85,
+      "transforms": 7,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "86293ea8b046fd61aecf2039f0a292e8450f910c5e6632e4b54aa55aba99e6f2",
+        "edited_sha256": "86293ea8b046fd61aecf2039f0a292e8450f910c5e6632e4b54aa55aba99e6f2"
+      }
+    },
+    {
+      "file": "painting-marker-06-f.svg",
+      "paths": 12,
+      "commands": 42,
+      "transforms": 12,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "03d91ee37a44af9a4888151f1e2851e28bd04e878eca24d1d8232d6f7684c13e",
+        "edited_sha256": "03d91ee37a44af9a4888151f1e2851e28bd04e878eca24d1d8232d6f7684c13e"
+      }
+    },
+    {
+      "file": "painting-marker-07-f.svg",
+      "paths": 4,
+      "commands": 12,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "0b11d66a91be5d967e41c138bc8b1104dddf73457ac92e1bd5c7ca0b062d5351",
+        "edited_sha256": "0b11d66a91be5d967e41c138bc8b1104dddf73457ac92e1bd5c7ca0b062d5351"
+      }
+    },
+    {
+      "file": "paths-data-04-t.svg",
+      "paths": 2,
+      "commands": 20,
+      "transforms": 1,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "7df425ada9320c1d1c8c67a80ab00aff713cf688f2f08d012a4cd6a48d43a4e5",
+        "edited_sha256": "7df425ada9320c1d1c8c67a80ab00aff713cf688f2f08d012a4cd6a48d43a4e5"
+      }
+    },
+    {
+      "file": "paths-data-05-t.svg",
+      "paths": 2,
+      "commands": 20,
+      "transforms": 1,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "18aba44fba5e68b91030f1ccbf8dff190833e96ecf0aeaa457d0c0af53a03293",
+        "edited_sha256": "18aba44fba5e68b91030f1ccbf8dff190833e96ecf0aeaa457d0c0af53a03293"
+      }
+    },
+    {
+      "file": "paths-data-06-t.svg",
+      "paths": 2,
+      "commands": 20,
+      "transforms": 1,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "f09dfc37666c5ba649ff517e8733f5283b3409319e65e5af67057db4ddd40014",
+        "edited_sha256": "f09dfc37666c5ba649ff517e8733f5283b3409319e65e5af67057db4ddd40014"
+      }
+    },
+    {
+      "file": "paths-data-07-t.svg",
+      "paths": 2,
+      "commands": 20,
+      "transforms": 1,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "76174ce70ff80269e3f43010d7ea1dacbef6e428e9a9f2f729693d752bf60a97",
+        "edited_sha256": "76174ce70ff80269e3f43010d7ea1dacbef6e428e9a9f2f729693d752bf60a97"
+      }
+    },
+    {
+      "file": "paths-data-09-t.svg",
+      "paths": 2,
+      "commands": 20,
+      "transforms": 1,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "303248808dba6d7cc8069ef0ef12288def71d5f7b56f8e5568540fe3bfcdc560",
+        "edited_sha256": "303248808dba6d7cc8069ef0ef12288def71d5f7b56f8e5568540fe3bfcdc560"
+      }
+    },
+    {
+      "file": "paths-data-10-t.svg",
+      "paths": 6,
+      "commands": 24,
+      "transforms": 12,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "0d61826d6bd96a7b92778c701d439f712ee880f38ad199cfe85389687f23f088",
+        "edited_sha256": "0d61826d6bd96a7b92778c701d439f712ee880f38ad199cfe85389687f23f088"
+      }
+    },
+    {
+      "file": "paths-data-12-t.svg",
+      "paths": 2,
+      "commands": 6,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "fc3681e5fdbaba1e16fcb30377a3fa318a960dea2741f73354f215e7bfef8bef",
+        "edited_sha256": "fc3681e5fdbaba1e16fcb30377a3fa318a960dea2741f73354f215e7bfef8bef"
+      }
+    },
+    {
+      "file": "paths-data-13-t.svg",
+      "paths": 2,
+      "commands": 10,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "eab4e1d4002ec2c6c8c9d1fbd3bed7da0e7399f9f9123a4558991e7e974e6c38",
+        "edited_sha256": "eab4e1d4002ec2c6c8c9d1fbd3bed7da0e7399f9f9123a4558991e7e974e6c38"
+      }
+    },
+    {
+      "file": "paths-data-14-t.svg",
+      "paths": 2,
+      "commands": 20,
+      "transforms": 1,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "d0f5a907f8092d389a9d8a1fba72b43c085b5f672ee7be5b4701220b63f503b7",
+        "edited_sha256": "d0f5a907f8092d389a9d8a1fba72b43c085b5f672ee7be5b4701220b63f503b7"
+      }
+    },
+    {
+      "file": "paths-data-15-t.svg",
+      "paths": 5,
+      "commands": 19,
+      "transforms": 1,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "524383255f5eba8fe62ecc84168b702ef6db21bb79e899064b79ca8b84357ea7",
+        "edited_sha256": "524383255f5eba8fe62ecc84168b702ef6db21bb79e899064b79ca8b84357ea7"
+      }
+    },
+    {
+      "file": "paths-data-16-t.svg",
+      "paths": 4,
+      "commands": 16,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "9413365b291c5bbdd32e10e27ed30d8414aab69a6b9ed9d50e1d1ff273a4e70b",
+        "edited_sha256": "9413365b291c5bbdd32e10e27ed30d8414aab69a6b9ed9d50e1d1ff273a4e70b"
+      }
+    },
+    {
+      "file": "paths-data-17-f.svg",
+      "paths": 4,
+      "commands": 20,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "e7be17a8e7579517a790ec1158d1e83ca8d501dc16f0d085fb73f919a853402a",
+        "edited_sha256": "e7be17a8e7579517a790ec1158d1e83ca8d501dc16f0d085fb73f919a853402a"
+      }
+    },
+    {
+      "file": "paths-data-18-f.svg",
+      "paths": 12,
+      "commands": 28,
+      "transforms": 1,
+      "pointLists": 0,
+      "preservedSyntax": [
+        {
+          "element": "path",
+          "attribute": "d",
+          "reason": "FormatException: Expected an SVG number. (at character 14)\nM 20 100 H 40#90\n             ^\n"
+        },
+        {
+          "element": "path",
+          "attribute": "d",
+          "reason": "FormatException: Expected an SVG number. (at character 14)\nM 20 160 H 40#90\n             ^\n"
+        }
+      ],
+      "render": {
+        "identical": true,
+        "reference_sha256": "9d3f3f9301c100ed64979a4bb853787053229e4f8c92c25fa31fc0d1d7fbe11f",
+        "edited_sha256": "9d3f3f9301c100ed64979a4bb853787053229e4f8c92c25fa31fc0d1d7fbe11f"
+      }
+    },
+    {
+      "file": "paths-data-19-f.svg",
+      "paths": 32,
+      "commands": 96,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "2c0bba3345b30f5beb7cd19109ceb9c9bece8c0c194bc5cb0b8732ed7acaad7c",
+        "edited_sha256": "2c0bba3345b30f5beb7cd19109ceb9c9bece8c0c194bc5cb0b8732ed7acaad7c"
+      }
+    },
+    {
+      "file": "paths-data-20-f.svg",
+      "paths": 11,
+      "commands": 44,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [
+        {
+          "element": "path",
+          "attribute": "d",
+          "reason": "FormatException: Expected an SVG arc flag. (at character 23)\nM280,120 h25 a25,25 0 6 0 -25,25 z\n                      ^\n"
+        },
+        {
+          "element": "path",
+          "attribute": "d",
+          "reason": "FormatException: Expected an SVG arc flag. (at character 26)\nM360,120 h-25 a25,25 0 1 -1 25,25 z\n                         ^\n"
+        },
+        {
+          "element": "path",
+          "attribute": "d",
+          "reason": "FormatException: Expected an SVG arc flag. (at character 28)\nM200,200 h-25 a25,2501 025,-25 z\n                           ^\n"
+        },
+        {
+          "element": "path",
+          "attribute": "d",
+          "reason": "FormatException: Expected an SVG arc flag. (at character 25)\nM280,200 h25 a25 25 0 1 7 -25 -25 z\n                        ^\n"
+        },
+        {
+          "element": "path",
+          "attribute": "d",
+          "reason": "FormatException: Expected an SVG arc flag. (at character 24)\nM360,200 h-25 a25,25 0 -1 0 25,-25 z\n                       ^\n"
+        }
+      ],
+      "render": {
+        "identical": true,
+        "reference_sha256": "954aa41031560a06433087b26a84d24dcb1d0ceeccc9a852a1b1cbf73cdf8c5f",
+        "edited_sha256": "954aa41031560a06433087b26a84d24dcb1d0ceeccc9a852a1b1cbf73cdf8c5f"
+      }
+    },
+    {
+      "file": "pservers-grad-03-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "504e4c496fbf65f08a16e6ed42a0a4eb65bc38be32662edc5d0ddd2402d7c139",
+        "edited_sha256": "504e4c496fbf65f08a16e6ed42a0a4eb65bc38be32662edc5d0ddd2402d7c139"
+      }
+    },
+    {
+      "file": "pservers-grad-04-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "4a1c71f2b26cbbd63a301e5c4d0d11b6bf0aa206d0e9fd743050e496eba9f829",
+        "edited_sha256": "4a1c71f2b26cbbd63a301e5c4d0d11b6bf0aa206d0e9fd743050e496eba9f829"
+      }
+    },
+    {
+      "file": "pservers-grad-05-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "3bd0e10120c2a26fd3f8fad7cba4d7d1cc2fbb741d5a9835b3442d2d0cf9fc82",
+        "edited_sha256": "3bd0e10120c2a26fd3f8fad7cba4d7d1cc2fbb741d5a9835b3442d2d0cf9fc82"
+      }
+    },
+    {
+      "file": "pservers-grad-06-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 3,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "5e59dcce0f4dee075c9fd0ef5b5ccfe08421bde47baa3b5cf76e634d2d14dd55",
+        "edited_sha256": "5e59dcce0f4dee075c9fd0ef5b5ccfe08421bde47baa3b5cf76e634d2d14dd55"
+      }
+    },
+    {
+      "file": "pservers-grad-07-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 1,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "08cca63243a4932e20c0c2dbf338b6e353e89ede8abb8fa1c6157216f4f78d41",
+        "edited_sha256": "08cca63243a4932e20c0c2dbf338b6e353e89ede8abb8fa1c6157216f4f78d41"
+      }
+    },
+    {
+      "file": "pservers-grad-08-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 1,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "f9d5ccbc655c4aba34366aa7022c1bd18f9570bc6006004085625273e882d698",
+        "edited_sha256": "f9d5ccbc655c4aba34366aa7022c1bd18f9570bc6006004085625273e882d698"
+      }
+    },
+    {
+      "file": "pservers-grad-09-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 1,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "aabc1c45c0aab26c20dc628d0717a208522862081e135f30360c1bf8ce5b4d77",
+        "edited_sha256": "aabc1c45c0aab26c20dc628d0717a208522862081e135f30360c1bf8ce5b4d77"
+      }
+    },
+    {
+      "file": "pservers-grad-10-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "d93651bde5c376a1f5e8aebba42aee0cfbc496718fd96ef17c85c09468ed3a86",
+        "edited_sha256": "d93651bde5c376a1f5e8aebba42aee0cfbc496718fd96ef17c85c09468ed3a86"
+      }
+    },
+    {
+      "file": "pservers-grad-11-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "63fb53023e8d0517645329c1b488fbdf64b673b02c74060cc3f0f7b7f6d94508",
+        "edited_sha256": "63fb53023e8d0517645329c1b488fbdf64b673b02c74060cc3f0f7b7f6d94508"
+      }
+    },
+    {
+      "file": "pservers-grad-12-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 1,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "90ea070a4fc3b5101716d73c67d8a1081f10cef52fafb47ca3a83ba6ac7d006c",
+        "edited_sha256": "90ea070a4fc3b5101716d73c67d8a1081f10cef52fafb47ca3a83ba6ac7d006c"
+      }
+    },
+    {
+      "file": "pservers-grad-13-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "4135fdc99b1646c7b576bf4cb806233c804ce63ef1eeab2fe8f6b8cca81a9c04",
+        "edited_sha256": "4135fdc99b1646c7b576bf4cb806233c804ce63ef1eeab2fe8f6b8cca81a9c04"
+      }
+    },
+    {
+      "file": "pservers-grad-14-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "8bf145f0ee9deca51dd57e7a73bca1d63ec8e182d0ce54f746756d84e000e8fe",
+        "edited_sha256": "8bf145f0ee9deca51dd57e7a73bca1d63ec8e182d0ce54f746756d84e000e8fe"
+      }
+    },
+    {
+      "file": "pservers-grad-15-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "b3248e8eadc521e7035beb7aef75fee00e9d024e0c236af8fcba1a78d7b5451d",
+        "edited_sha256": "b3248e8eadc521e7035beb7aef75fee00e9d024e0c236af8fcba1a78d7b5451d"
+      }
+    },
+    {
+      "file": "pservers-grad-16-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "a98f5de18e5fb13182977f207c582fc2ed86c6382557776d07c95f05934f0e0d",
+        "edited_sha256": "a98f5de18e5fb13182977f207c582fc2ed86c6382557776d07c95f05934f0e0d"
+      }
+    },
+    {
+      "file": "pservers-grad-17-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 6,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "ab0c89cecf49883cfbecc4160b14b0bb5a2efd4c2ab1c27995d3603aab3a4c32",
+        "edited_sha256": "ab0c89cecf49883cfbecc4160b14b0bb5a2efd4c2ab1c27995d3603aab3a4c32"
+      }
+    },
+    {
+      "file": "pservers-grad-18-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "871ee5d6976e6f8418301236c2954ab8e60eb753f045ca621136ff7fe603c255",
+        "edited_sha256": "871ee5d6976e6f8418301236c2954ab8e60eb753f045ca621136ff7fe603c255"
+      }
+    },
+    {
+      "file": "pservers-grad-20-b.svg",
+      "paths": 8,
+      "commands": 16,
+      "transforms": 6,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "ab0c89cecf49883cfbecc4160b14b0bb5a2efd4c2ab1c27995d3603aab3a4c32",
+        "edited_sha256": "ab0c89cecf49883cfbecc4160b14b0bb5a2efd4c2ab1c27995d3603aab3a4c32"
+      }
+    },
+    {
+      "file": "pservers-grad-21-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 6,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "f9c57eb7171e8f42243e95a8d4fc8b23cb11a4aef83ada8fc05fbdc4ecabedf3",
+        "edited_sha256": "f9c57eb7171e8f42243e95a8d4fc8b23cb11a4aef83ada8fc05fbdc4ecabedf3"
+      }
+    },
+    {
+      "file": "pservers-grad-22-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 8,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "a00c96ee298ae1fea5f00de81451c5262dcbeb13848c4020ad2e19b549bf4bc4",
+        "edited_sha256": "a00c96ee298ae1fea5f00de81451c5262dcbeb13848c4020ad2e19b549bf4bc4"
+      }
+    },
+    {
+      "file": "styling-css-02-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 2,
+      "pointLists": 2,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "13b4fd2e86f0ac7ca5476705b38005bca27a6834089f2d2906d148fae0aa2ddf",
+        "edited_sha256": "13b4fd2e86f0ac7ca5476705b38005bca27a6834089f2d2906d148fae0aa2ddf"
+      }
+    },
+    {
+      "file": "styling-css-03-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 1,
+      "pointLists": 2,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "0626b4aabcf01aa29d745843311e13fcf2e03fbda0a15e47815d561cff5cd69f",
+        "edited_sha256": "0626b4aabcf01aa29d745843311e13fcf2e03fbda0a15e47815d561cff5cd69f"
+      }
+    },
+    {
+      "file": "styling-css-04-f.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "38b9a2d39e0b592283aa8ecd23a3b4221b1db17f28f011a7fffb1226d936666f",
+        "edited_sha256": "38b9a2d39e0b592283aa8ecd23a3b4221b1db17f28f011a7fffb1226d936666f"
+      }
+    },
+    {
+      "file": "styling-css-05-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "f1af26ab60fe241df995f4ea067e000d77ec3f0f06c8c90ba3e0f1ee412e27f9",
+        "edited_sha256": "f1af26ab60fe241df995f4ea067e000d77ec3f0f06c8c90ba3e0f1ee412e27f9"
+      }
+    },
+    {
+      "file": "styling-css-06-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "a069355c78c7c5f947d6a02ab84392d065695a2b973e2019679b37d6c0b0e38a",
+        "edited_sha256": "a069355c78c7c5f947d6a02ab84392d065695a2b973e2019679b37d6c0b0e38a"
+      }
+    },
+    {
+      "file": "styling-css-07-f.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "a1127283e2fdc38944fcd8f22046b5504fc882a60fa14bb7af50c80bdf94d934",
+        "edited_sha256": "a1127283e2fdc38944fcd8f22046b5504fc882a60fa14bb7af50c80bdf94d934"
+      }
+    },
+    {
+      "file": "styling-css-08-f.svg",
+      "paths": 2,
+      "commands": 8,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "fdedf0390500405094dbcbee74ca04d8f53fe3f82af766ea1d8481a0708868a7",
+        "edited_sha256": "fdedf0390500405094dbcbee74ca04d8f53fe3f82af766ea1d8481a0708868a7"
+      }
+    },
+    {
+      "file": "text-path-01-b.svg",
+      "paths": 3,
+      "commands": 12,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "7ec421ffe0c4f1f333b77851af2e01dc7f4818af33187f8d3575eb8aa8e925d7",
+        "edited_sha256": "7ec421ffe0c4f1f333b77851af2e01dc7f4818af33187f8d3575eb8aa8e925d7"
+      }
+    },
+    {
+      "file": "text-path-02-b.svg",
+      "paths": 2,
+      "commands": 10,
+      "transforms": 1,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "a2a729359dc765aef73c929c40763d2f0030b9d49803434229e5142058f64dce",
+        "edited_sha256": "a2a729359dc765aef73c929c40763d2f0030b9d49803434229e5142058f64dce"
+      }
+    },
+    {
+      "file": "text-tspan-02-b.svg",
+      "paths": 0,
+      "commands": 0,
+      "transforms": 0,
+      "pointLists": 0,
+      "preservedSyntax": [],
+      "render": {
+        "identical": true,
+        "reference_sha256": "97f7b10cda1183ef56032e5e20b5ed8a0093de76d6bfb504a4de306707dda582",
+        "edited_sha256": "97f7b10cda1183ef56032e5e20b5ed8a0093de76d6bfb504a4de306707dda582"
+      }
+    }
+  ],
+  "authoring": {
+    "identical": true,
+    "reference_sha256": "2b6319f11cf0ac7e25ad34fb9f490b9af9944d842966455e0ad592f6288f451b",
+    "edited_sha256": "2b6319f11cf0ac7e25ad34fb9f490b9af9944d842966455e0ad592f6288f451b"
+  },
+  "input_differs_from_expected": true,
+  "failures": []
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160">
+  <defs>
+    <linearGradient id="sky"><stop offset="0" stop-color="red"/><stop offset="1" stop-color="gold"/></linearGradient>
+    <clipPath id="clip"><rect width="90" height="50" rx="8"/></clipPath>
+    <filter id="blur"><feGaussianBlur stdDeviation="0.4"/></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10z" fill="green"/></marker>
+  </defs>
+  <style>#panel { stroke: black; stroke-width: 2; } #curve { fill:none;stroke:green;stroke-width:2 }</style>
+  <g id="art" transform="translate(15 10)">
+    <rect id="panel" width="90" height="40" fill="url(#sky)" clip-path="url(#clip)" filter="url(#blur)" style="stroke:purple;stroke-width:3"/>
+    <text id="caption" x="0" y="70" font-size="14">After <tspan id="word" font-weight="bold">SVG</tspan>!</text>
+    <path id="curve" d="M0 95 Q20 55 40 95 Q60 125 80 95 A20 10 0 0 1 120 95" marker-end="url(#arrow)"/>
+  </g>
+  <use id="copy" href="#panel" x="130" y="20"/>
+  <g opacity="0.6"><circle cx="200" cy="90" r="12" fill="teal"/><circle cx="200" cy="120" r="12" fill="teal"/></g>
+</svg>

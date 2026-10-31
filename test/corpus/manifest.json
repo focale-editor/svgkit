@@ -1,0 +1,852 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "file": "paths-data-01-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-01-t.svg",
+      "size": 11078,
+      "sha256": "f33ffa2e22037943add890d492f66d92b1ff6ab9d42125255d5efe58165fa13c",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-02-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-02-t.svg",
+      "size": 8577,
+      "sha256": "12c20b87175edc14344e0468644cef93fa5dba4a4181e0dd765aca9295adc0ca",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-03-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-03-f.svg",
+      "size": 8433,
+      "sha256": "481329ef9e971c56adc879c5d9a0e7f170ed46243f275f1d34f0c635ac3aaf1a",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-08-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-08-t.svg",
+      "size": 5355,
+      "sha256": "9e25cbb1ab0686f93c23db96fd1d5b68cce109f0a6ce5f6f221e78144cef1f4d",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "shapes-rect-01-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/shapes-rect-01-t.svg",
+      "size": 4641,
+      "sha256": "e0d5298a759a920abb0803a507eaf80584a9586a12e0cf54c7efe5d50d14fbba",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "shapes-circle-01-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/shapes-circle-01-t.svg",
+      "size": 3192,
+      "sha256": "ac94b9981a472c9f59c3c2133d9d98de497d433b5b103804f312e52eaa7bdf3a",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "shapes-ellipse-01-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/shapes-ellipse-01-t.svg",
+      "size": 4439,
+      "sha256": "c56e32b48ecac021f2b7971a6f943feac5a70efab60335062dbfe18853f2b228",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-trans-01-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-trans-01-b.svg",
+      "size": 12864,
+      "sha256": "6deaae2310dd12dae26269460b196f092d1e4c5206a80b04ca8c218b7abfc158",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-viewattr-01-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-viewattr-01-b.svg",
+      "size": 8509,
+      "sha256": "ff014a8f87ccfe05b59dd9ce54adea93a8b1cad8a4c0ce84b075413150005754",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "reject",
+      "reason": "Internal DTD entity definitions are intentionally unsupported; external DTD identifiers are preserved without fetching."
+    },
+    {
+      "file": "painting-fill-01-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/painting-fill-01-t.svg",
+      "size": 3551,
+      "sha256": "ea79ff2e62a7e52e6a7211860c5f162e8f6f5d20cfe659aa30baf9a6a667b125",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "painting-stroke-01-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/painting-stroke-01-t.svg",
+      "size": 3899,
+      "sha256": "db7134500348c8936421970b4546606177ef468ab269608ce4d631d49c1c8529",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-01-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-01-b.svg",
+      "size": 3902,
+      "sha256": "5922629bbb8d9f79d989949d22c3d3d8c9cf6543bac0255bb7d2c4fe37f44fb5",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-02-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-02-b.svg",
+      "size": 4696,
+      "sha256": "df4c16a972655bb336c12fe554dcda605390a3aa51dc41f34045b7475e3e8bf6",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-pattern-01-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-pattern-01-b.svg",
+      "size": 6524,
+      "sha256": "5435df916c92a4c1f214ef8ac8dd0b972dd392ba6547ffbb5841878f366f61ba",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "masking-path-01-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/masking-path-01-b.svg",
+      "size": 5047,
+      "sha256": "cf837e4d173cdb97dc718d5170e6fae290a6122b210f5a0f10fb474c0954ba1d",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "masking-mask-01-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/masking-mask-01-b.svg",
+      "size": 7247,
+      "sha256": "4e259b7f4023104385ba6cc5dd9b28e5e64b3b802d95bf610c62ef63f8eb4941",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "filters-gauss-01-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/filters-gauss-01-b.svg",
+      "size": 4927,
+      "sha256": "9a0a14b09f1d2019e3235403568807d51546e3a7a0dcad06b2c39553586c7f98",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "text-text-01-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/text-text-01-b.svg",
+      "size": 10257,
+      "sha256": "708b3b20e8ad465458f42dca1640cc4accb0ba09a4e961b5ad2c442509acc469",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "text-tspan-01-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/text-tspan-01-b.svg",
+      "size": 6447,
+      "sha256": "eb4413f272804716de3522db23211c65fb1c00aa4dde2e44a80c74f88160617f",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "struct-use-01-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/struct-use-01-t.svg",
+      "size": 5603,
+      "sha256": "e03e24264422e25e234ea9041985da39598db4b22ff4b8469950c3a08cff64bf",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "struct-symbol-01-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/struct-symbol-01-b.svg",
+      "size": 5049,
+      "sha256": "05cd6d223a217c1dca8b70a00e51916ab830737dd1287211a9d7c1bc30f4cda1",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "styling-css-01-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/styling-css-01-b.svg",
+      "size": 4160,
+      "sha256": "be2801e5807d744a51d7be961669ca3487fedee17e8ebed4909d08fc5e2f6880",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-trans-02-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-trans-02-t.svg",
+      "size": 9961,
+      "sha256": "3f9ef06ba6f24da2dafb3928b83bc22ffda58719672c80f3ae63b54b760accda",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-trans-03-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-trans-03-t.svg",
+      "size": 5473,
+      "sha256": "7705a5dbcf551e779748d55470f823bb4959a6b790e2e26551fda665b9bff610",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-trans-04-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-trans-04-t.svg",
+      "size": 4908,
+      "sha256": "0cb34995b370871dbb4bdd7ec36d3180f27e612d966f59689a2bf7401f348760",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-trans-05-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-trans-05-t.svg",
+      "size": 4953,
+      "sha256": "52065f69cb18e0c9a97683944ae266390109b1cecf526bbee050d61a7549966a",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-trans-06-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-trans-06-t.svg",
+      "size": 4192,
+      "sha256": "1d2b7ac2e3e6c9a37b31c83403143130ad7ed23cada7ae774ed3156c9c475890",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-trans-07-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-trans-07-t.svg",
+      "size": 3913,
+      "sha256": "6d31db6833cdb6fd554d3dd4f3ff67ee706d3a43840f6a4d522823565511281f",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-trans-08-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-trans-08-t.svg",
+      "size": 4128,
+      "sha256": "ebdabc32463425af3e9e5c471a3d36b2aa01beb2175d28aa8e410277088fe7c4",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-trans-09-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-trans-09-t.svg",
+      "size": 4892,
+      "sha256": "5e953c9706562057d2d72cac4160a13e10d2b2611094df3fca9af9ac9d7dfe35",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-trans-10-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-trans-10-f.svg",
+      "size": 4346,
+      "sha256": "7380b1b4e168616a9e0e8bbdcb2f0f6cf14c8cf53b5a2cb0a6d80d39177393d3",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-trans-11-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-trans-11-f.svg",
+      "size": 4354,
+      "sha256": "56443000b53485c7ff2343c30f67b7b46700dc16aa69eb819dfac139d59e5651",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-trans-12-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-trans-12-f.svg",
+      "size": 4405,
+      "sha256": "e12838c70ef2e4fbbf183abc79ba5e3cb47e424c7ab5958f7cc3c78b6b659f9f",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-trans-13-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-trans-13-f.svg",
+      "size": 4286,
+      "sha256": "67f27a3327b5c609fcba973579fe98bb4e9d370f428b863cc6d551dd9a017898",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-trans-14-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-trans-14-f.svg",
+      "size": 4458,
+      "sha256": "b8afe425542af92e29c25717edf32a34e9d97542baab380395947bc53f54c07b",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-transformattr-01-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-transformattr-01-f.svg",
+      "size": 5001,
+      "sha256": "c59524f658297a26878e653c5d38770cfed35e7c74b59170497f3c287d0b9407",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-transformattr-02-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-transformattr-02-f.svg",
+      "size": 4527,
+      "sha256": "c1bc4963c980263840fa4ad0fcd8c3294c228fd968a1f4da583db0726813e13f",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-transformattr-03-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-transformattr-03-f.svg",
+      "size": 3794,
+      "sha256": "f761b74c73e492c747437e101383b0acc1eb69bf329501a953f883aaa70914ec",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-transformattr-04-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-transformattr-04-f.svg",
+      "size": 3551,
+      "sha256": "7b9bc45826d7758934d283f5aa1441b1a064743867effe4dbfd3ed2b2cba3674",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "coords-transformattr-05-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/coords-transformattr-05-f.svg",
+      "size": 4382,
+      "sha256": "23825aeb2349f78ca5c509c137b663b4f9e6fee3ea8bade94bf5e8684fc983cf",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "filters-blend-01-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/filters-blend-01-b.svg",
+      "size": 6769,
+      "sha256": "f5a855cb9bf7c89cc0135894129f97e262821fd41d21207fc00a0f7a062ad100",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "filters-composite-02-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/filters-composite-02-b.svg",
+      "size": 9284,
+      "sha256": "84cc5737a3dc9588a0f540fee3c89ae554c34905b692f6d754cd5cac80ce980f",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "filters-composite-03-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/filters-composite-03-f.svg",
+      "size": 4521,
+      "sha256": "63a102ee8b85f595c96d13b8b0c72b995e87185cbf47aeb47d5a0131447ed073",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "painting-marker-01-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/painting-marker-01-f.svg",
+      "size": 10160,
+      "sha256": "ba95ebedf77091b966547007d7c58656fdf90ed1f1c3b1b08f697c5b52fa2602",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "painting-marker-02-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/painting-marker-02-f.svg",
+      "size": 13254,
+      "sha256": "fb0e36cd6bcc62dfce61b3f60206d1ff8757be4394ae16a48dba883b635660a3",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "painting-marker-03-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/painting-marker-03-f.svg",
+      "size": 5040,
+      "sha256": "ce791f90cec7693a5bc260554a6664863f474128f76494625e0f506007e8a550",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "painting-marker-04-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/painting-marker-04-f.svg",
+      "size": 4984,
+      "sha256": "0e9a33770e781d63d612ab41c61e1e3178604dfd7aa10a0770a1e57694d3d39a",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "painting-marker-05-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/painting-marker-05-f.svg",
+      "size": 12550,
+      "sha256": "27c0e85bea28311515796ec555325220f8bb9b8b7423f77d7cb223adb1eef595",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "painting-marker-06-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/painting-marker-06-f.svg",
+      "size": 9894,
+      "sha256": "1aeeb8f6358fc6155ef2cb1a6905e8a3a011e1550e6a3ede3b76ff038e2f6af8",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "painting-marker-07-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/painting-marker-07-f.svg",
+      "size": 3322,
+      "sha256": "8986732b00956434f7bdb92fc2e474c59a575529ce4b5cae21552eaca70c7881",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-04-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-04-t.svg",
+      "size": 5482,
+      "sha256": "0cf03a83bba5ce083c93a0549f43fb7c4893a2af946b0788dca7c08162103aa1",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-05-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-05-t.svg",
+      "size": 5328,
+      "sha256": "9124de7a7e9072f9c911a4af589c0964d5da3da562bfcb41a994dc556c48f6af",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-06-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-06-t.svg",
+      "size": 5520,
+      "sha256": "04e9c3088b05274742cd6c07e94b2fc9ea2a6c3b09a4a0eadaba8c9f8dc2842d",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-07-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-07-t.svg",
+      "size": 5448,
+      "sha256": "6c5c1e97a52d275f8be0d3286ef880976e20b51d7f11cd7dd685346c79f0f198",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-09-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-09-t.svg",
+      "size": 5268,
+      "sha256": "75011c0c88137b56fba55df094bafae1a8bf324423bfd4f5577ce4c07fe4beee",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-10-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-10-t.svg",
+      "size": 5896,
+      "sha256": "4f54b92e6416e6c9f2ef40efa9c04c9c5d27e9b26a7f95d6e2648d71f2af5026",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-12-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-12-t.svg",
+      "size": 3945,
+      "sha256": "3e570e4efe1581fa1d6e5ce429414e88c476c1cfe1df777e81732776768f6bad",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-13-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-13-t.svg",
+      "size": 3149,
+      "sha256": "f389571e9deeac6e3c0ec9298932bc154b64152083a2aa32697f963eee0c9943",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-14-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-14-t.svg",
+      "size": 3628,
+      "sha256": "2754b8870ee87389c0986e0e33723d9ded0f1003284e3a3bccc68d8973f018e1",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-15-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-15-t.svg",
+      "size": 3555,
+      "sha256": "342b7f5727f50b439b74ce2b5007166f5dc65b5810c86e851eadeb0ccd45bcf4",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-16-t.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-16-t.svg",
+      "size": 3273,
+      "sha256": "45df5baf2a53d71877fbae128dafdcf3fc443906319013cb8cf5a6922958781f",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-17-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-17-f.svg",
+      "size": 3309,
+      "sha256": "7976f7ee48e7ea28d7f2bc56640c6082069b8c4456aad5d39f1c2b001b66d8ad",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-18-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-18-f.svg",
+      "size": 4726,
+      "sha256": "645f1c65787e809597ae1afa122342955a039ea81ff6c489e3d145e22db1d47d",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-19-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-19-f.svg",
+      "size": 5939,
+      "sha256": "e6a9cd35cd782d8ff955952b02f0a430599f6cc47e5f6c33271fc2b6069ce548",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "paths-data-20-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/paths-data-20-f.svg",
+      "size": 4243,
+      "sha256": "16400e1bda0d8abd6f629e091ca8a5094d673b8545d1a9bbf36f3ebd0e5f4eb7",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-03-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-03-b.svg",
+      "size": 4428,
+      "sha256": "f713054490e321bd9170fc2f699e2407c67316f56975babad6d814af580f4d37",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-04-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-04-b.svg",
+      "size": 5034,
+      "sha256": "d2543b32d6dbe062f05519cbbcebf126fbd6124edb1cf2ec00b581ad05afad90",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-05-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-05-b.svg",
+      "size": 5501,
+      "sha256": "2b83ed1482a1dc090aaefb227ff4fd408f34ff7e305ed6f9a1544a40e56cd88a",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-06-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-06-b.svg",
+      "size": 6668,
+      "sha256": "003a36bb1e8fd07d7dbea835121c2a4726471073b514da3212c205cbe66f4226",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-07-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-07-b.svg",
+      "size": 5130,
+      "sha256": "c4a66ff6f63ad9301b76e0dc5cbd21e209cb8329f255675476d7abd2edf1a854",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-08-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-08-b.svg",
+      "size": 5470,
+      "sha256": "2d9b4eeec406c689d289d8a986932717dd742a4e51b2b8d2604e74b4099efff4",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-09-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-09-b.svg",
+      "size": 6779,
+      "sha256": "cfa423182f8f49ad0ca2690fdb395fac3cf1d369aa4bb0ff2e2efb4428249ff3",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-10-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-10-b.svg",
+      "size": 5644,
+      "sha256": "ad948fa3cbd262c794bbaafd1b3210c784cc2b1c84e304a68962e2811974e414",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-11-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-11-b.svg",
+      "size": 7514,
+      "sha256": "8b9fcbd59e36d67474826141fa6d2ed654a771fc092643f57c3308b147ce81a7",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-12-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-12-b.svg",
+      "size": 6758,
+      "sha256": "da37afe6e4ccbe740bb0ea7a7e0ece20bf55e1b9e6786626ba99e06365ed9632",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-13-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-13-b.svg",
+      "size": 9242,
+      "sha256": "29f7cccc34c3b362ba41529c5756f7eba54de731bdc49aa97fa1c743a4d57ee2",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-14-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-14-b.svg",
+      "size": 6443,
+      "sha256": "4694716e8e085d06c938d138ab960cc3d8be9d88295ebf1c679b3b8266cece83",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-15-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-15-b.svg",
+      "size": 3773,
+      "sha256": "17153dc92aad40c74cc9f915939544b348e6288d958e5044ce1e7f75494870dd",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-16-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-16-b.svg",
+      "size": 4408,
+      "sha256": "0df86532bfce8ddaff29a0f6e42bbf2737ff38dcc30585dd8768d9affb44aee9",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-17-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-17-b.svg",
+      "size": 5433,
+      "sha256": "8005bd37fc91beed9d1b5d28d76685945c2d245e8961e5dede07f958834b664a",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-18-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-18-b.svg",
+      "size": 5634,
+      "sha256": "587544d8eaac6f8c0fb1a2c37d1076be041492dad7a628490d11961938f18939",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-20-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-20-b.svg",
+      "size": 4961,
+      "sha256": "2db561e440eea7d116d47a0b1d13136644da7c00e3521aaed7f249ddb296020f",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-21-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-21-b.svg",
+      "size": 6614,
+      "sha256": "7cdd61ca5695a674eb59b6cb875ac4dbc0b64e20a7b3dc51ad24436cf0cf2e4a",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "pservers-grad-22-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/pservers-grad-22-b.svg",
+      "size": 4269,
+      "sha256": "390781a071ad15352a17a351622bced52cecf01fa02052c24753f2a4b4ca466b",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "styling-css-02-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/styling-css-02-b.svg",
+      "size": 4137,
+      "sha256": "3948d71f6b98c1c08493688b3b4776a070d6f21e05ca57fd8160cb0b76df3c2c",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "styling-css-03-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/styling-css-03-b.svg",
+      "size": 5246,
+      "sha256": "ea32d6d32008e16f5be0003507a28e45c5e8305647ef85775564b8b4f1306d05",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "styling-css-04-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/styling-css-04-f.svg",
+      "size": 7242,
+      "sha256": "e83b0d3bf8dfa69b468a23e2763d64631ff0d8eaf16f9c17c91242d3325c4718",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "styling-css-05-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/styling-css-05-b.svg",
+      "size": 3815,
+      "sha256": "08d078440ae186cca9f68de19b7c8997b565e6256a4f5fa8534785deb3573e8b",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "styling-css-06-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/styling-css-06-b.svg",
+      "size": 29103,
+      "sha256": "7e94984ed292919433356ad798e5c63f54607c1f65c32c722d99126dde3e15b9",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "styling-css-07-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/styling-css-07-f.svg",
+      "size": 2899,
+      "sha256": "1a416cabf3590db153d5761df91c65aab7c1621822e5da1d0613fb31cd292c53",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "styling-css-08-f.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/styling-css-08-f.svg",
+      "size": 4884,
+      "sha256": "9a18c903cf35f4c922c300afd39fee8d0a837616bc0078a659d046923e8ade86",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "text-path-01-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/text-path-01-b.svg",
+      "size": 4935,
+      "sha256": "89634b215aa2a0a22158fb1b9a3bb4bbd8efbc2830e1b6ab2da8f8519a394438",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "text-path-02-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/text-path-02-b.svg",
+      "size": 4941,
+      "sha256": "eadf8e27a60cec7c6ccb67fce8a6f43246909d94d6de75842f60113317f1628e",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    },
+    {
+      "file": "text-tspan-02-b.svg",
+      "url": "https://www.w3.org/Graphics/SVG/Test/20110816/svg/text-tspan-02-b.svg",
+      "size": 6544,
+      "sha256": "61dc6fa2bd5bc9f679d72d78fc3432ed4aceac95b4ba80a2deb399a4fb917c3c",
+      "revision": "20110816",
+      "license": "W3C Test Suite License",
+      "expected": "accept"
+    }
+  ]
+}
