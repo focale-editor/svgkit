@@ -7,11 +7,12 @@ repository: https://github.com/focale-editor/svgkit
 topics:
   - svg
   - vector-graphics
+  - document
   - codec
   - file-format
 
 screenshots:
-  - description: 'Editable SVG artwork with a Bezier curve and anchor points.'
+  - description: 'A flat illustration of editable SVG artwork with a Bezier curve and anchor points.'
     path: screenshots/overview.png
 
 environment:

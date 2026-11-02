@@ -4,24 +4,32 @@
 
 # SvgKit
 
-SvgKit reads, **edits** and writes SVG/SVGZ in pure Dart. It combines immutable
+SvgKit is a pure Dart codec for reading, editing, and writing SVG and SVGZ documents. It combines immutable
 document snapshots with an authoring API for paths, shapes, transforms, styles,
 text, reusable resources and the complete retained XML tree. It has no Flutter
-or rendering-engine dependency. SVGZ uses Focale's **ZCodec**.
+or rendering-engine dependency. SVGZ uses Focale's ZCodec.
+
+## Supported data
+
+- SVG and gzip-compressed SVGZ with UTF-8, BOM-marked UTF-16, or declared ISO-8859-1 input.
+- Immutable XML snapshots retaining unknown elements, namespaces, comments, and extension data.
+- Editable paths, shapes, transforms, styles, text, and reusable resources.
+- Local reference inspection, ID renaming, and reference remapping during duplication or import.
+- Configurable byte, node, and depth limits, including bounded SVGZ decompression.
+- UTF-8 SVG and SVGZ output without inserting whitespace into text content.
 
 ## Installation
 
-Use the GitHub repository:
+Add SvgKit to your Dart or Flutter project's `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  svgkit:
-    git: https://github.com/focale-editor/svgkit
+  svgkit: ^0.1.0
 ```
 
-The kit itself requires only Dart.
+Run `dart pub get`, or `flutter pub get` for a Flutter project. The kit itself requires only Dart.
 
-## Quick start
+## Reading, editing, and writing
 
 Edit a path, change its appearance, and save a compressed SVGZ snapshot:
 
@@ -57,6 +65,27 @@ final SvgDocument reopened = const SvgCodec().decode(saved);
 The original snapshot never changes, including when the edit callback fails.
 `SvgEditor(document: original)` supports longer sessions and repeated `build()`
 snapshots. Application history can retain these immutable documents.
+
+## Reusable `dart:convert` API
+
+`SvgCodec` implements `Codec<SvgDocument, List<int>>` and keeps the output format
+and resource limits in one immutable value:
+
+```dart
+const SvgCodec codec = SvgCodec(
+  compressed: true,
+  limits: SvgLimits(maxBytes: 16 * 1024 * 1024),
+);
+
+final SvgDocument decoded = codec.decode(saved);
+final List<int> output = codec.encode(decoded);
+```
+
+Input compression is detected from the gzip signature, independently of the
+`compressed` output option. The `List<int>` binary type allows composition with
+standard codecs such as `base64`; direct `encode` calls return `Uint8List`.
+`SvgDecoder` and `SvgEncoder` are also reusable converters. Each conversion
+handles one complete in-memory document.
 
 ## Creating artwork
 

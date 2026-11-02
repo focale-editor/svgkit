@@ -1,4 +1,19 @@
-# SVG document reference
+# SVG technical reference
+
+This document describes the SVG/SVGZ model, editing contracts, preservation rules, and resource limits implemented by SvgKit. Start with the [README](../README.md) for usage examples.
+
+## Contents
+
+- [Editing sessions](#editing-sessions)
+- [Structure and content](#structure-and-content)
+- [Editable geometry and transforms](#editable-geometry-and-transforms)
+- [Styles and rich text](#styles-and-rich-text)
+- [Resources and references](#resources-and-references)
+- [Conversion contract](#conversion-contract)
+- [Geometry metadata](#geometry-metadata)
+- [Limits and errors](#limits-and-errors)
+- [Compatibility evidence](#compatibility-evidence)
+- [References](#references)
 
 ## Editing sessions
 

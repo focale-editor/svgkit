@@ -628,10 +628,7 @@ void _preserveNamespaces({required XmlElement source, required XmlElement destin
   // ancestor declarations. Reconstruct only bindings needed by actual names.
   for (final XmlElement element in [destination, ...destination.descendantElements]) {
     final Map<String, String> bindings = {for (final XmlNamespace binding in element.namespaces) binding.prefix: binding.uri};
-    for (final XmlName name in [
-      element.name,
-      ...element.attributes.where((attribute) => !(attribute.name.prefix == 'xmlns' || attribute.name.qualified == 'xmlns')).map((attribute) => attribute.name),
-    ]) {
+    for (final XmlName name in [element.name, ...element.attributes.where((attribute) => !(attribute.name.prefix == 'xmlns' || attribute.name.qualified == 'xmlns')).map((attribute) => attribute.name)]) {
       final String? uri = name.namespaceUri;
       if (uri != null && bindings[name.prefix ?? ''] != uri) {
         element.setAttribute(name.prefix == null ? 'xmlns' : 'xmlns:${name.prefix}', uri);
